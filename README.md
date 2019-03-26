@@ -1,8 +1,10 @@
-# JavaScript #2 - Lekce 3
+# JavaScript #2 - Lekce 4
 
-Ve třetí lekci si zopakujeme javascritové třídy, povíme si něco o dědičnosti, ukážeme si tzv. gettery a settery a vše si prakticky vyzkoušíme.
+Ve čtvrté lekci si ukážeme, jak komunikovat se vzdáleným serverem a pomocí API z něho získávat data.
 
 ## Obsah lekce
 
-1. [Dědičnost](class-inheritance.md)
-2. [Getter a setter](getter-setter.md)
+1. [Klient-server komunikaca](client-server.md)
+2. [Co je API a formát JSON](api-json.md)
+3. [Asynchronní kód a Promise](promise.md)
+4. [Fetch API - načítání dat z webu](fetch.md)
